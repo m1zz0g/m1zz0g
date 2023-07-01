@@ -14,6 +14,6 @@
 ### :man_technologist: about me:
 - my name is Roman. I am 18 years old, I am a student from Russia.
 
-- i love coding. I mostly write in Python, and sometimes in C/C++.
+- i love coding. I mostly write in Python.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1zz0g&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=m1zz0g&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
