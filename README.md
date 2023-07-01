@@ -20,8 +20,12 @@
 <h2 align="center">contact me</h2>
 <p align="center">
   <a href="https://t.me/m1zz0g">
-    <img src="https://img.shields.io/badge/-Telegram-1a1b27?style=flat&logo=telegram" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/-Telegram-black?style=flat&logo=telegram" alt="Telegram"/>
   </a>
 </p>
 
-![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=m1zz0g&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
+<h3 align="center">my stats</h3>
+
+| github stats | top languages |
+| --- | --- |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=m1zz0g&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m1zz0g&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
