@@ -16,6 +16,6 @@
   </a>
 </p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=m1zz0g&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true)
+![github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m1zz0g&theme=tokyonight)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m1zz0g&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
+![top languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m1zz0g&theme=tokyonight)
