@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-<!--
-**m1zz0g/m1zz0g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m1zz0g&style=for-the-badge&label=profile views" alt="watching"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_technologist: about me:
+- my name is Roman. I am 18 years old, I am a student from Russia.
+
+- i love coding. I mostly write in Python, and sometimes in C/C++.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1zz0g&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
